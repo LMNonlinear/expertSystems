@@ -1,6 +1,8 @@
 # expertSystems
 Application to match applicants to job description, papers to reviewers. 
 
+Implementation details could be found [here](/Expert%20Systems.pdf).
+
 Collaborators: 
   - Ashutosh Upadhye
   - Amish Ranjan Singh
